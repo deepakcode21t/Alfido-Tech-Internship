@@ -1,6 +1,6 @@
 # Alfido-Tech-Internship
 
-Name : Deepak
+Name : Deepak Thapa
 company : Alfido Tech Internship
 Domain : C/C++ programming
 Duration : 1 july to 31 july
