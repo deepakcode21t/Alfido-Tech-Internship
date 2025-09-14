@@ -29,18 +29,6 @@ Description: Created a calculator program in C++ that performs addition, subtrac
 Special Feature: The program handles division by zero gracefully without crashing.
 Concepts Used: Switch-case, input/output operations, conditional checks.
 
-Task 2: Loops & Conditions
-
-Description: Wrote a C++ program that prints all even numbers from 1 to 100.
-Concepts Used: For loop, modulo operator, conditional statement.
-Key Point: Odd numbers are skipped, ensuring only even numbers are displayed.
-
-Task 3: Arrays & Functions
-
-Description: Developed a C++ program to find the largest element in a user-defined array.
-Concepts Used: Arrays, functions, iteration, user input handling.
-Key Feature: Function findLargest() was created for code reusability.
-
 4. Tools & Technologies Used
 
 Programming Language: C++
