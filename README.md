@@ -1,4 +1,4 @@
-# Alfido-Tech-Internship - 1
+# Alfido-Tech-Internship 
 
 Name : Deepak Thapa
 company : Alfido Tech Internship
